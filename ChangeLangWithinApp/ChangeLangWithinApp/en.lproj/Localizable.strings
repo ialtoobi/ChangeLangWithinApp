@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  ChangeLangWithinApp
+
+  Created by Mohammed Altoobi on 25/07/2021.
+  
+*/
+
+
+"change_language_test" = "Change language test";
+"change_language" = "Change language";
+"choose_your_languge" = "Choose your language";
+"cancel" = "Cancel";
